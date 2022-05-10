@@ -10,7 +10,7 @@ on:
 
 jobs:
   lint:
-    uses: tommysundling/toy-website-environments/.github/workflows/helloworld.yml@main
+    uses: tommysundling/toy-website-environments/.github/workflows/helloworld.yml@feature/test
 
   # validate: 
   #   runs-on: ubuntu-latest

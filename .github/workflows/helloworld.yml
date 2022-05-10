@@ -12,4 +12,4 @@ jobs:
 
     - name: Say it
       run: |
-        echo "Hello World"
+        echo "Hello New World"
